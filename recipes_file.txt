@@ -2,6 +2,9 @@ welcome to my kitechen
 
 kheer 
 pasta
-chicken fry 
+chicken fry
+
+beans
+pizza
 
 thank you
